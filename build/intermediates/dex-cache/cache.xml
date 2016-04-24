@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        jar="/home/lyc/git/android-EventBus-demo/EventBus/build/libs/eventbus-3.0.0.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="772cedcf8aeea9a1bf8c6d2b5e320791969719b0">
+        <dex dex="/home/lyc/git/android-EventBus-demo/app/build/intermediates/pre-dexed/debug/eventbus-3.0.0_1c14cc3808a9f67cf55c8ebae70a241852f9a50d.jar" />
+    </item>
+    <item
+        jar="/home/lyc/codeTools/sdk/extras/android/m2repository/com/android/support/support-v4/19.1.0/support-v4-19.1.0.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="85f201b380937e61a9dce6ca90ccf6872abbfb67">
+        <dex dex="/home/lyc/git/android-EventBus-demo/app/build/intermediates/pre-dexed/debug/support-v4-19.1.0_2e5199549c9be6d93188d974f1ec7e4af0765fc8.jar" />
+    </item>
+
+</items>

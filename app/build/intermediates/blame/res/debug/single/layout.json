@@ -1,0 +1,30 @@
+[
+    {
+        "merged": "/home/lyc/git/android-EventBus-demo/app/build/intermediates/res/merged/debug/layout/activity_root.xml",
+        "source": "/home/lyc/git/android-EventBus-demo/app/src/main/res/layout/activity_root.xml"
+    },
+    {
+        "merged": "/home/lyc/git/android-EventBus-demo/app/build/intermediates/res/merged/debug/layout/activity_third.xml",
+        "source": "/home/lyc/git/android-EventBus-demo/app/src/main/res/layout/activity_third.xml"
+    },
+    {
+        "merged": "/home/lyc/git/android-EventBus-demo/app/build/intermediates/res/merged/debug/layout/activity_second.xml",
+        "source": "/home/lyc/git/android-EventBus-demo/app/src/main/res/layout/activity_second.xml"
+    },
+    {
+        "merged": "/home/lyc/git/android-EventBus-demo/app/build/intermediates/res/merged/debug/layout/activity_main.xml",
+        "source": "/home/lyc/git/android-EventBus-demo/app/src/main/res/layout/activity_main.xml"
+    },
+    {
+        "merged": "/home/lyc/git/android-EventBus-demo/app/build/intermediates/res/merged/debug/layout/old_son.xml",
+        "source": "/home/lyc/git/android-EventBus-demo/app/src/main/res/layout/old_son.xml"
+    },
+    {
+        "merged": "/home/lyc/git/android-EventBus-demo/app/build/intermediates/res/merged/debug/layout/parent.xml",
+        "source": "/home/lyc/git/android-EventBus-demo/app/src/main/res/layout/parent.xml"
+    },
+    {
+        "merged": "/home/lyc/git/android-EventBus-demo/app/build/intermediates/res/merged/debug/layout/young_son.xml",
+        "source": "/home/lyc/git/android-EventBus-demo/app/src/main/res/layout/young_son.xml"
+    }
+]
